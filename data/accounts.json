@@ -1,0 +1,129 @@
+[
+    {
+      "name": "Bhanu M",
+      "email": "bhanum@gmail.com",
+      "pancard": "GTGSBGNJKL",
+      "bankName": "Bank1",
+      "AccountType": "Salary",
+      "FixedDeposits": 2,
+      "Balance": 23000
+    },
+    {
+      "name": "Bhanu M",
+      "email": "bhanum@gmail.com",
+      "pancard": "GTGSBGNJKL",
+      "bankName": "Bank2",
+      "AccountType": "Savings",
+      "FixedDeposits": 1,
+      "Balance": 249000
+    },
+    {
+      "name": "Bhanu M",
+      "email": "bhanum@gmail.com",
+      "pancard": "GTGSBGNJKL",
+      "bankName": "Bank3",
+      "AccountType": "Savings",
+      "FixedDeposits": 0,
+      "Balance": 1000
+    },
+    {
+      "name": "Bhanu M",
+      "email": "bhanum@gmail.com",
+      "pancard": "GTGSBGNJKL",
+      "bankName": "Bank4",
+      "AccountType": "Salary",
+      "FixedDeposits": 0,
+      "Balance": 3000
+    },
+    {
+      "name": "Jenny",
+      "email": "Jen123@gmail.com",
+      "pancard": "REDSBGNJKL",
+      "bankName": "Bank1",
+      "AccountType": "Salary",
+      "FixedDeposits": 7,
+      "Balance": 30500
+    },
+    {
+      "name": "Jenny",
+      "email": "Jen123@gmail.com",
+      "pancard": "REDSBGNJKL",
+      "bankName": "Bank1",
+      "AccountType": "Savings",
+      "FixedDeposits": 9,
+      "Balance": 8000
+    },
+    {
+      "name": "Sikha h",
+      "email": "sikha@gmail.com",
+      "pancard": "IUYTREWQAS",
+      "bankName": "Bank1",
+      "AccountType": "Salary",
+      "FixedDeposits": 0,
+      "Balance": 78000
+    },
+    {
+      "name": "Sikha h",
+      "email": "sikha@gmail.com",
+      "pancard": "IUYTREWQAS",
+      "bankName": "Bank2",
+      "AccountType": "Savings",
+      "FixedDeposits": 9,
+      "Balance": 9000
+    },
+    {
+      "name": "Sikha h",
+      "email": "sikha@gmail.com",
+      "pancard": "IUYTREWQAS",
+      "bankName": "Bank3",
+      "AccountType": "Salary",
+      "FixedDeposits": 1,
+      "Balance": 8000
+    },
+    {
+      "name": "Sikha h",
+      "email": "sikha@gmail.com",
+      "pancard": "IUYTREWQAS",
+      "bankName": "Bank4",
+      "AccountType": "Savings",
+      "FixedDeposits": 0,
+      "Balance": 1000
+    },
+    {
+      "name": "Jacob",
+      "email": "jakic@gmail.com",
+      "pancard": "NBGDRTYCMK",
+      "bankName": "Bank1",
+      "AccountType": "Savings",
+      "FixedDeposits": 3,
+      "Balance": 1824350
+    },
+    {
+      "name": "Jacob",
+      "email": "jakic@gmail.com",
+      "pancard": "NBGDRTYCMK",
+      "bankName": "Bank2",
+      "AccountType": "Savings",
+      "FixedDeposits": 0,
+      "Balance": 10000
+    },
+    {
+      "name": "Jacob",
+      "email": "jakic@gmail.com",
+      "pancard": "NBGDRTYCMK",
+      "bankName": "Bank3",
+      "AccountType": "Savings",
+      "FixedDeposits": 7,
+      "Balance": 1906548
+    },
+    {
+      "name": "Jacob",
+      "email": "jakic@gmail.com",
+      "pancard": "NBGDRTYCMK",
+      "bankName": "Bank4",
+      "AccountType": "Salary",
+      "FixedDeposits": 3,
+      "Balance": 16430864
+    }
+  ]
+  
